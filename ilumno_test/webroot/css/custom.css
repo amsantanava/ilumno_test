@@ -1,0 +1,7 @@
+.actions ul li{
+    list-style-type: none;
+}
+
+table tr td{
+    max-width: 100%;
+}
